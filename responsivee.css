@@ -1,0 +1,221 @@
+@media all and (max-width:1100px) {
+    .container-fluid .navbar-brand {
+        font-size: 25px !important;
+        margin-right: 120px;
+    }
+    .container-fluid img {
+        height: 32px;
+        width: 32px;
+    }
+    .clock {
+        top: 95px;
+        left:8.2%;
+        font-size: 24px;
+        background-color: rgba(0, 0, 0, 1);
+        border-radius: 10px;
+        color: whitesmoke;
+        text-shadow: 
+        0 0 2px rgb(173, 255, 148), 
+        0 0 2px rgb(173, 255, 148), 
+        0 0 2px rgb(173, 255, 148), 
+        0 0 2px rgb(173, 255, 148);
+    }
+    .welcome {
+        width: 475px;
+        height: 360px;
+        top: 190px;
+        left: 80px;
+    }
+    .welcome h1, .welcome h2  {
+        font-size: 40px;
+    }
+    .welcome p {
+        font-size: 15px;
+    }
+    .img {
+        top: 190px;
+        left: 580px;
+    }
+    .img img {
+        height: 350px;
+        width: 360px;
+    }
+}
+@media all and (max-width:1000px) {
+    .container-fluid .navbar-brand {
+        font-size: 25px !important;
+        margin-right: 120px;
+    }
+    .container-fluid img {
+        height: 32px;
+        width: 32px;
+    }
+    .clock {
+        top: 95px;
+        left:8.2%;
+        font-size: 24px;
+        background-color: rgba(0, 0, 0, 1);
+        border-radius: 10px;
+        color: whitesmoke;
+        text-shadow: 
+        0 0 2px rgb(173, 255, 148), 
+        0 0 2px rgb(173, 255, 148), 
+        0 0 2px rgb(173, 255, 148), 
+        0 0 2px rgb(173, 255, 148);
+    }
+    .welcome {
+        width: 475px;
+        height: 360px;
+        top: 190px;
+        left: 80px;
+    }
+    .welcome h1, .welcome h2  {
+        font-size: 40px;
+    }
+    .welcome p {
+        font-size: 15px;
+    }
+    .img {
+        top: 190px;
+        left: 580px;
+    }
+    .img img {
+        height: 350px;
+        width: 360px;
+    }
+}
+@media all and (max-width:991px) {
+    .navbar {
+        position: fixed !important;
+        line-height: 60px;
+        height: 60px !important;
+        width: 100%;
+        z-index: 1;
+    }
+    .navbar-collapse {
+        line-height: 10px !important;
+    }
+    .container-fluid .navbar-brand {
+        font-size: 18px !important;
+    }
+    .container-fluid img {
+        top: 20px;
+        height: 32px;
+        width: 32px;
+    }
+    .clock {
+        top: 35px;
+        left:78%;
+        font-size: 24px;
+        background-color: rgba(0, 0, 0, 1);
+        border-radius: 10px;
+        color: whitesmoke;
+        text-shadow: 
+        0 0 2px rgb(173, 255, 148), 
+        0 0 2px rgb(173, 255, 148), 
+        0 0 2px rgb(173, 255, 148), 
+        0 0 2px rgb(173, 255, 148);
+    }
+    .welcome {
+        width: 475px;
+        height: 360px;
+        top: 190px;
+        left: 80px;
+    }
+    .welcome h1, .welcome h2  {
+        font-size: 40px;
+    }
+    .welcome p {
+        font-size: 15px;
+    }
+    .img {
+        top: 190px;
+        left: 580px;
+    }
+    .img img {
+        height: 350px;
+        width: 360px;
+    }
+    #particle-canvas {
+        height: 657px;
+    }
+}
+@media all and (max-width:700px) {
+    .navbar {
+        position: fixed !important;
+        line-height: 30px;
+        height: 30px !important;
+        width: 100%;
+        z-index: 2;
+    }
+    .navbar-collapse {
+        line-height: 10px !important;
+    }
+    .container-fluid .navbar-brand {
+        font-size: 16px !important;
+        margin-left: 39px;
+        margin-top: 20px;
+    }
+    .container-fluid img {
+        top: 29px;
+        left: 20px;
+        height: 22px;
+        width: 22px;
+    }
+    .container-fluid button {
+        position: absolute;
+        top: 0;
+        left: 80%;
+        height: 10px !important;
+        width: 10px !important;
+    }
+    .navbar-toggler-icon {
+        position: absolute;
+        top: 30px;
+        left: 90%;
+        height: 20px !important;
+        width: 20px !important;
+    } 
+    .clock {
+        top: 155px;
+        left:50%;
+        font-size: 12px;
+        background-color: rgba(0, 0, 0, 1);
+        border-radius: 10px;
+        color: whitesmoke;
+        text-shadow: 
+        0 0 2px rgb(173, 255, 148), 
+        0 0 2px rgb(173, 255, 148), 
+        0 0 2px rgb(173, 255, 148), 
+        0 0 2px rgb(173, 255, 148);
+    }
+    .welcome {
+        width: 275px;
+        height: 190px;
+        top: 155px;
+        left: 20px;
+    }
+    .welcome h1, .welcome h2  {
+        font-size: 15px;
+    }
+    .welcome p {
+        margin-top: 17px;
+        margin-bottom: 10px;
+        font-size: 8px;
+    }
+    .welcome a img {
+        width: 15px;
+        height: 15px;
+    }
+    .img {
+        top: 350px;
+        left: 25%;
+    }
+    .img img {
+        height: 150px;
+        width: 160px;
+    }
+    #particle-canvas {
+        height: 657px;
+    }
+}
